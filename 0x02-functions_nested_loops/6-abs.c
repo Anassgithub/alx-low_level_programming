@@ -3,7 +3,9 @@
 /**
  * _abs - function to find absolute value of a number
  *
- * @int: input number as integer
+ * int: input number as integer
+ *
+ * @a:function parametr
  *
  * Return: -a or a
 */
@@ -16,5 +18,5 @@ int _abs(int a)
 	{
 		return (a);
 	}
-	return(0);
+	return (0);
 }
